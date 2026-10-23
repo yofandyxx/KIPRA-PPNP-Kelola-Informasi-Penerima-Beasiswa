@@ -1,0 +1,2 @@
+id,scholarship_id,student_id,application_date,motivation,document_url,declaration,selection_status,selection_notes,selection_date
+APP001,SCH001,STD001,23/10/26,Ingin mendapatkan beasiswa,https://drive.google.com/...,TRUE,Menunggu Seleksi,,
